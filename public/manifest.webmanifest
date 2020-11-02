@@ -1,8 +1,10 @@
 {   
     "name":"PWA-Budget-Tracker",
-    "short_name":"PWA-Budget-Tracker",
-    "theme_color":"#ffffff",
-    "background_color":"#ffffff",
+    "short_name":"PWA-Budget-Tracker",   
+    "orientation": "portrait",
+    "display":"standalone",
     "start_url":"/",
-    "display":"standalone"
+    "description": "An application that allows a user to track budget while online and offline",
+    "background_color":"#ffffff",
+    "theme_color":"#ffffff"
 }
