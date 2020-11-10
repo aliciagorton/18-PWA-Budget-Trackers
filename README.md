@@ -25,7 +25,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 * Deploy your application with [Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)
 - - -
 ## Submission:
-* the URL to the deployed application:
+* the URL to the deployed application: https://shrouded-coast-09553.herokuapp.com/
 
 * the URL to the Github repository: https://github.com/aliciagorton/18-PWA-Budget-Trackers.git
 
